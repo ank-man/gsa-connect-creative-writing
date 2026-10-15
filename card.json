@@ -1,0 +1,102 @@
+{
+  "slug": "june-abernathy",
+  "name": "June Abernathy",
+  "pronouns": "she/her",
+  "title": "MFA Candidate, Creative Writing (Poetry)",
+  "headline": "Poems about rivers, grandmothers, and leaving home.",
+  "department": "Department of English",
+  "organization": "University of Georgia",
+  "gsaRole": "GSA Member",
+  "badgeLabel": "GSA Member",
+  "location": "Athens, GA",
+  "photo": "",
+  "bio": "Graduate student at the University of Georgia. Poems about rivers, grandmothers, and leaving home. Open to collaborations, mentoring and good conversations.",
+  "email": "yourname@uga.edu",
+  "phone": "+1 706 555 0142",
+  "website": "https://example.com",
+  "cv": "assets/cv.pdf",
+  "calendar": "https://calendar.app.google/your-booking-link",
+  "researchInterests": [
+    "Drought stress memory",
+    "Root phenotyping",
+    "Epigenomics",
+    "Sorghum & millet",
+    "Open science"
+  ],
+  "links": [
+    {
+      "label": "Portfolio",
+      "url": "https://example.com",
+      "icon": "website"
+    },
+    {
+      "label": "Bluesky",
+      "url": "https://bsky.app/",
+      "icon": "social"
+    },
+    {
+      "label": "Writing",
+      "url": "https://example.com",
+      "icon": "book"
+    }
+  ],
+  "publications": [],
+  "projects": [
+    {
+      "title": "Floodplain",
+      "description": "Chapbook · Finishing Line Press, 2026",
+      "url": "https://example.com"
+    },
+    {
+      "title": "River Readings",
+      "description": "Monthly reading series at Hendershot's",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Field Notes",
+      "description": "Essay in The Georgia Review",
+      "url": "https://example.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MFA Candidate, Creative Writing (Poetry)",
+      "school": "University of Georgia",
+      "years": "2024 – present"
+    }
+  ],
+  "awards": [],
+  "officeHours": "By appointment · use the booking link",
+  "events": [
+    {
+      "title": "GSA General Assembly",
+      "date": "Nov 4, 2026",
+      "where": "Tate Center 480",
+      "url": ""
+    },
+    {
+      "title": "Research Showcase Poster Night",
+      "date": "Nov 19, 2026",
+      "where": "Zell B. Miller Learning Center",
+      "url": ""
+    }
+  ],
+  "brand": {
+    "cardName": "GSA Connect",
+    "org": "UGA Graduate Student Association",
+    "orgShort": "UGA GSA"
+  },
+  "theme": {
+    "accent": ""
+  },
+  "poweredBy": {
+    "name": "ScholarTap",
+    "url": "https://scholartap.com"
+  },
+  "siteUrl": "",
+  "wallet": {
+    "backgroundColor": "#2d2a8c",
+    "foregroundColor": "#FFFFFF",
+    "labelColor": "#EDEDED"
+  }
+}
